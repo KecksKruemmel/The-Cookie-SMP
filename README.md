@@ -13,19 +13,17 @@ Live Server Status
 
 <img src="https://api.mcstatus.io/v2/widget/java/cookie-smp.minecraft.party?dark=true&rounded=true" alt="Live Minecraft server status and player count">
 <br>
-
-Choose your Language
-
-  
-
 </div>
 
-[!TIP]
 Server Adresse / Server Address
 
 cookie-smp.minecraft.party
+
 <div align="center">
-⭐ Gefällt dir das Projekt? Lass gerne einen Stern da.&nbsp;&nbsp;/&nbsp;&nbsp;Like the project? Feel free to leave a star.
+
+⭐ Gefällt dir das Projekt? Lass gerne einen Stern da.
+Like the project? Feel free to leave a star.
+
 </div>
 
 ⸻
@@ -45,7 +43,6 @@ Land Claims	Zuverlässiger Schutz für Bauwerke vor Griefing
 Zweisprachige Community	Volle Unterstützung für Deutsch und Englisch, in Chat und Support
 Geringes PvP	Community und Zusammenarbeit stehen im Vordergrund
 
-[!NOTE]
 So trittst du bei
 
 1. Minecraft Java Edition öffnen
@@ -55,7 +52,7 @@ So trittst du bei
 
 Serverinformationen
 
-	
+Eigenschaft	Information
 Server	The Cookie SMP
 Adresse	cookie-smp.minecraft.party
 Edition	Minecraft Java Edition
@@ -76,11 +73,7 @@ Geplant	Weitere Herausforderungen
 Geplant	Erweiterte Erkundungsinhalte
 Geplant	Community Events
 
-<br>
-
 ⸻
-
-<br>
 
 🇬🇧 English
 
@@ -97,7 +90,6 @@ Land Claims	Reliable protection for builds against griefing
 Bilingual Community	Full support in German and English, in chat and in support
 Low PvP	Community and cooperation take priority over combat
 
-[!NOTE]
 How to join
 
 1. Open Minecraft Java Edition
@@ -107,7 +99,7 @@ How to join
 
 Server Information
 
-	
+Property	Information
 Server	The Cookie SMP
 Address	cookie-smp.minecraft.party
 Edition	Minecraft Java Edition
@@ -128,7 +120,11 @@ Planned	Additional challenges
 Planned	Expanded exploration content
 Planned	Community events
 
-<br>
+⸻
+
 <div align="center">
+
+The Cookie SMP
 cookie-smp.minecraft.party
+
 </div>
