@@ -1,60 +1,59 @@
-# 🍪 The Cookie SMP – Ein friedlicher Minecraft Survival Server (Java 1.21.11)
+# 🍪 The Cookie SMP – Ein friedlicher Minecraft Survival Server
 
-![Minecraft Java 1.21.11](https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=flat-square)
-![Bedrock Crossplay: Ja](https://img.shields.io/badge/Bedrock%20Crossplay-Ja-brightgreen?style=flat-square)
-![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=flat-square&logo=discord)
-
----
+![Java Edition 1.21.11](https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=flat-square&logo=minecraft)
+![Discord Community](https://img.shields.io/badge/Discord-Join-7289DA?style=flat-square&logo=discord)
 
 Kurzbeschreibung  
-The Cookie SMP ist ein freundlicher und communityorientierter Minecraft Java Survival Server. Fokus liegt auf kreativem Bauen, Erkundung, Spielerhandel und angenehmer Zusammenarbeit. PvP wird nur in ausgewiesenen Bereichen aktiviert.
+The Cookie SMP ist ein communityfokussierter Minecraft Java Survival Server (Version 1.21.11). Fokus liegt auf bauen, handeln und gemeinsamer Erkundung mit einer starken, freundlichen Community und einer spielerbasierten Wirtschaft.
 
-> [!IMPORTANT]
-> Server IP ist kopierbar weiter unten im Abschnitt „Wichtige Serverdaten“. Bitte füge die Adresse in dein Minecraft Multiplayer Fenster ein.
+> [!NOTE]  
+> Die README ist auf Deutsch verfasst. Alle wichtigen Verbindungsdaten stehen weiter unten und sind kopierbar.
 
 ---
 
-## Wichtige Serverdaten
-- Server IP (kopierbar):
+## Wichtige Links & Serverdaten
+- Server IP (kopierbar)
+
 ```text
 cookie-smp.minecraft.party
 ```
-- Version: Java 1.21.11 (Bedrock Crossplay unterstützt)  
-- Discord: https://discord.gg/kaTjfWDTFJ  
+
+- Version: Java Edition 1.21.11 (kein Bedrock Crossplay)  
+- Discord Community: https://discord.gg/kaTjfWDTFJ  
 - Ban Appeals: https://discord.gg/2cPwFba94G  
 - Feedback Formular: https://forms.gle/JzEuBev94p4tRVAs5
 
-> [!NOTE]
-> Falls du Probleme beim Verbinden hast, überprüfe zuerst deine Minecraft Version (Java 1.21.11) und dass keine Firewall die Verbindung blockiert.
+> [!IMPORTANT]  
+> Stelle sicher, dass du Minecraft Java Edition in der Version 1.21.11 verwendest, bevor du dich verbindest.
 
 ---
 
-## Hauptfeatures / Kernfunktionen
+## Key Features
 - Spielerbasierte Wirtschaft (AuctionHouse & QuickShop)  
-- Rollenspiel Elemente (AuraSkills Levelsystem & Dungeons)  
-- Proximity Voicechat  
-- Eigene Custom Items  
-- Land Claims zur Absicherung deiner Bauten
+- RPG & Levelsystem (AuraSkills & Custom Dungeons)  
+- Proximity Voicechat (voicechat Plugin)  
+- Custom Items & Ingame Features  
+- Land Claims zum Schutz deiner Bauten
 
 ---
 
 ## Offizielles Server Team
 
-| Rolle       | Account            |
-|------------:|--------------------|
-| Owner       | Kecks_Krümmel      |
-| Manager     | Jecrafter          |
-| Admin       | Drr_Benjii         |
-| Developer   | Tobias86825        |
-| Moderatoren | Staffcrafter, DDR_Maik |
+| Rolle       | Account                     |
+|------------:|-----------------------------|
+| Owner       | Kecks_Krümmel               |
+| Manager     | Jecrafter                   |
+| Admin       | Drr_Benjii                  |
+| Developer   | Tobias86825                 |
+| Moderatoren | Staffcrafter, DDR_Maik      |
 
 ---
 
 ## Regeln & Sanktionen
 Bitte respektvoll miteinander umgehen. Die Regeln dienen dem Spielspaß aller.
 
-> [!IMPORTANT]
-> Regelverstöße werden konsequent, aber fair behandelt.
+> [!IMPORTANT]  
+> Regelverstöße werden konsequent, aber fair geahndet.
 
 Eskalationsstufen bei Regelverstößen:
 1. Verwarnung  
@@ -62,21 +61,23 @@ Eskalationsstufen bei Regelverstößen:
 3. Temporärer Bann (Temp-Ban)  
 4. Permanenter Bann (Perm-Ban)
 
-Kurzregeln (Auszug)
+Kurzregeln (Auszug):
 - Kein Griefing oder Diebstahl fremder Builds  
-- Kein Ausnutzen von Bugs oder unfairen Exploits (bitte melden)  
+- Kein Ausnutzen von Bugs oder Exploits (bitte melden)  
 - Respektvoller Umgang, keine Beleidigungen oder Diskriminierung  
 - PvP nur in markierten Gebieten oder wenn ausdrücklich erlaubt
 
 ---
 
-## Wie du beitreten kannst
-1. Minecraft Java Edition starten (Version 1.21.11)  
+## Wie du beitrittst
+1. Starte Minecraft Java Edition (Version 1.21.11)  
 2. Multiplayer → Server hinzufügen  
 3. Server IP kopieren und einfügen:
+
 ```text
 cookie-smp.minecraft.party
 ```
+
 4. Verbinden und willkommen heißen lassen!
 
 ---
@@ -86,8 +87,8 @@ cookie-smp.minecraft.party
 - Ban Appeals: https://discord.gg/2cPwFba94G  
 - Feedback Formular: https://forms.gle/JzEuBev94p4tRVAs5
 
-> [!NOTE]
-> Für schnelle Hilfe nutze am besten unseren Discord Support Channel. Für formales Feedback nutze das Formular.
+> [!NOTE]  
+> Für schnelle Hilfe nutze unser Discord. Für strukturiertes Feedback nutze das Formular.
 
 ---
 
