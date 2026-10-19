@@ -83,6 +83,30 @@ cookie-smp.minecraft.party
 
 ---
 
+## Offizielles Server Team
+- Owner: **Kecks_Krümmel**
+- Manager: **Jecrafter**
+- Admin: **Drr_Benjii**
+- Developer: **Tobias86825**
+- Moderatoren: **Staffcrafter**, **DDR_Maik**
+
+---
+
+## Wichtige Links und Serverdaten / Important Links and Server Info
+- Server IP / Server Address (copyable):
+
+```text
+cookie-smp.minecraft.party
+```
+
+- Discord Einladung / Discord invite:
+https://discord.gg/kaTjfWDTFJ
+
+- Feedback Formular / Feedback form:
+https://forms.gle/JzEuBev94p4tRVAs5
+
+---
+
 ## 🇬🇧 English
 
 ### About
@@ -129,13 +153,35 @@ cookie-smp.minecraft.party
 
 ---
 
+## Official Server Team
+- Owner: **Kecks_Krümmel**
+- Manager: **Jecrafter**
+- Admin: **Drr_Benjii**
+- Developer: **Tobias86825**
+- Moderators: **Staffcrafter**, **DDR_Maik**
+
+---
+
+## Important Links
+- Server IP (copyable):
+
+```text
+cookie-smp.minecraft.party
+```
+
+- Discord invite:
+https://discord.gg/kaTjfWDTFJ
+
+- Feedback form:
+https://forms.gle/JzEuBev94p4tRVAs5
+
+---
+
 ## Regeln / Rules (Kurz)
 - Kein griefing / no griefing  
 - Respektvoller Umgang miteinander  
 - Keine Ausnutzung von Bugs (bitte melden)  
 - PvP nur dort wo explizit erlaubt
-
-(Falls ihr detaillierte Regeln, ein Discord oder Support Kontakt habt, kann ich diese hier ergänzen.)
 
 ---
 
@@ -152,7 +198,7 @@ cookie-smp.minecraft.party
 cookie-smp.minecraft.party
 ```
 
-- Discord / Support: (hier optional Link einfügen)
+- Discord / Support: https://discord.gg/kaTjfWDTFJ
 
 ---
 
