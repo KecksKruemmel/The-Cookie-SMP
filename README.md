@@ -2,7 +2,7 @@
 
 # 🍪 The Cookie SMP
 
-Ein freundlicher Minecraft Java Edition Survival-Server für Builder, Entdecker und Händler — mit minimalem PvP und einer zweisprachigen Community.
+Ein freundlicher Minecraft Java Edition Survival Server für Builder, Entdecker und Händler, mit minimalem PvP und einer zweisprachigen Community.
 
 <img src="https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=flat-square" alt="Minecraft Java 1.21.11">
 <img src="https://img.shields.io/badge/PvP-Minimal-a9702c?style=flat-square" alt="Minimal PvP">
@@ -17,7 +17,7 @@ Ein freundlicher Minecraft Java Edition Survival-Server für Builder, Entdecker 
 
 ---
 
-## Server-Adresse / Server Address
+## Server Adresse / Server Address
 
 **cookie-smp.minecraft.party**
 
@@ -36,14 +36,14 @@ Ein freundlicher Minecraft Java Edition Survival-Server für Builder, Entdecker 
 ## 🇩🇪 Deutsch
 
 ### Über uns
-The Cookie SMP ist ein entspannter Survival-Server, der Wert auf Gemeinschaft, kreative Bauprojekte und erkundungsbasierte Abenteuer legt. PvP ist auf ein Minimum reduziert — Zusammenarbeit und Handel stehen im Vordergrund.
+The Cookie SMP ist ein entspannter Survival Server, der Wert auf Gemeinschaft, kreative Bauprojekte und erkundungsbasierte Abenteuer legt. PvP ist auf ein Minimum reduziert, Zusammenarbeit und Handel stehen im Vordergrund.
 
 ### Features
 - Handgebaute Dungeons mit einzigartigen Herausforderungen  
-- Spielergetriebene Wirtschaft mit Shops & Handel  
+- Spieler getriebene Wirtschaft mit Shops & Handel  
 - Land Claims: Schutz für Bauwerke vor Griefing  
-- Volle Unterstützung für Deutsch und Englisch im Chat & Support  
-- Geringes PvP — Fokus auf Community & Kooperation
+- Volle Unterstützung für Deutsch und Englisch im Chat und Support  
+- Geringes PvP, Fokus auf Community und Kooperation
 
 ### So trittst du bei
 1. Minecraft Java Edition öffnen  
@@ -67,7 +67,7 @@ The Cookie SMP ist ein entspannter Survival-Server, der Wert auf Gemeinschaft, k
 - [x] Wirtschaftssystem  
 - [x] Land Claims  
 - [x] Custom Dungeons  
-- [x] Deutsch & Englisch Support  
+- [x] Deutsch und Englisch Support  
 - [ ] Weitere Herausforderungen  
 - [ ] Erweiterte Erkundungsinhalte  
 - [ ] Community Events
@@ -77,14 +77,14 @@ The Cookie SMP ist ein entspannter Survival-Server, der Wert auf Gemeinschaft, k
 ## 🇬🇧 English
 
 ### About
-The Cookie SMP is a relaxed survival server focused on community, creative building, exploration, and player-driven trade. PvP is kept minimal — cooperation and trading are encouraged.
+The Cookie SMP is a relaxed survival server focused on community, creative building, exploration, and player driven trade. PvP is kept minimal, cooperation and trading are encouraged.
 
 ### Features
-- Original, hand-built dungeons with evolving challenges  
-- Player-run economy with shops and free trading  
+- Original hand built dungeons with evolving challenges  
+- Player run economy with shops and free trading  
 - Land claims to protect builds from griefing  
-- Full support in German and English (chat & support)  
-- Low PvP — community-first gameplay
+- Full support in German and English (chat and support)  
+- Low PvP, community first gameplay
 
 ### How to join
 1. Open Minecraft Java Edition  
@@ -108,7 +108,7 @@ The Cookie SMP is a relaxed survival server focused on community, creative build
 - [x] Economy system  
 - [x] Land claims  
 - [x] Custom dungeons  
-- [x] German & English support  
+- [x] German and English support  
 - [ ] Additional challenges  
 - [ ] Expanded exploration content  
 - [ ] Community events
@@ -119,15 +119,15 @@ The Cookie SMP is a relaxed survival server focused on community, creative build
 - Kein griefing / no griefing  
 - Respektvoller Umgang miteinander  
 - Keine Ausnutzung von Bugs (bitte melden)  
-- PvP nur dort, wo explizit erlaubt
+- PvP nur dort wo explizit erlaubt
 
-(Falls ihr detaillierte Regeln, ein Discord oder Support-Kontakt habt, kann ich diese hier ergänzen.)
+(Falls ihr detaillierte Regeln, ein Discord oder Support Kontakt habt, kann ich diese hier ergänzen.)
 
 ---
 
 ## Mitmachen & Mitgestalten / Contribute
 - Baue, handle und organisiere Events mit anderen Spielern  
-- Vorschläge und Bugreports am besten im Discord/Issue-Tracker (falls vorhanden)
+- Vorschläge und Bugreports am besten im Discord oder Issue Tracker (falls vorhanden)
 
 ---
 
