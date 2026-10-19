@@ -1,130 +1,146 @@
- <div align="center">
+<div align="center">
 
-🍪 The Cookie SMP
+# 🍪 The Cookie SMP
 
-A peaceful Minecraft Java Edition survival server for builders, explorers and traders.
+Ein freundlicher Minecraft Java Edition Survival-Server für Builder, Entdecker und Händler — mit minimalem PvP und einer zweisprachigen Community.
 
 <img src="https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=flat-square" alt="Minecraft Java 1.21.11">
 <img src="https://img.shields.io/badge/PvP-Minimal-a9702c?style=flat-square" alt="Minimal PvP">
 <img src="https://img.shields.io/badge/Community-DE%20%7C%20EN-a9702c?style=flat-square" alt="German and English community">
+
 <br>
 
-Live Server Status
-
+<!-- Live server status widget -->
 <img src="https://api.mcstatus.io/v2/widget/java/cookie-smp.minecraft.party?dark=true&rounded=true" alt="Live Minecraft server status and player count">
-<br>
-</div>
-
-Server Adresse / Server Address
-
-cookie-smp.minecraft.party
-
-<div align="center">
-
-⭐ Gefällt dir das Projekt? Lass gerne einen Stern da.
-Like the project? Feel free to leave a star.
 
 </div>
 
-⸻
+---
 
-🇩🇪 Deutsch
+## Server-Adresse / Server Address
 
-Über uns
+**cookie-smp.minecraft.party**
 
-The Cookie SMP ist ein Minecraft Java Edition Survival Server, der auf Bauen, Erkunden und Handeln statt auf Kampf ausgerichtet ist. Die Community setzt bewusst auf sehr geringes PvP und ist vollständig zweisprachig. Deutsch und Englisch werden gleichermaßen unterstützt.
+---
 
-Features
+## Kurzinfo / Quick Overview
 
-Feature	Beschreibung
-Custom Dungeons	Handgebaute Dungeons mit eigenen Herausforderungen, die laufend erweitert werden
-Wirtschaftssystem	Ein spielergetriebener Markt mit Shops und freiem Handel
-Land Claims	Zuverlässiger Schutz für Bauwerke vor Griefing
-Zweisprachige Community	Volle Unterstützung für Deutsch und Englisch, in Chat und Support
-Geringes PvP	Community und Zusammenarbeit stehen im Vordergrund
+- Edition: Minecraft Java Edition  
+- Version: 1.21.11  
+- Fokus: Survival, Bauen, Erkundung, Handel  
+- PvP: Sehr gering / Minimal  
+- Sprachen: Deutsch & Englisch
 
-So trittst du bei
+---
 
-1. Minecraft Java Edition öffnen
-2. Mehrspieler auswählen und Server hinzufügen
-3. Adresse eintragen: cookie-smp.minecraft.party
-4. Verbinden und loslegen
+## 🇩🇪 Deutsch
 
-Serverinformationen
+### Über uns
+The Cookie SMP ist ein entspannter Survival-Server, der Wert auf Gemeinschaft, kreative Bauprojekte und erkundungsbasierte Abenteuer legt. PvP ist auf ein Minimum reduziert — Zusammenarbeit und Handel stehen im Vordergrund.
 
-Eigenschaft	Information
-Server	The Cookie SMP
-Adresse	cookie-smp.minecraft.party
-Edition	Minecraft Java Edition
-Version	1.21.11
-PvP	Sehr gering
-Sprachen	Deutsch, Englisch
-Fokus	Survival, Community, Erkundung
+### Features
+- Handgebaute Dungeons mit einzigartigen Herausforderungen  
+- Spielergetriebene Wirtschaft mit Shops & Handel  
+- Land Claims: Schutz für Bauwerke vor Griefing  
+- Volle Unterstützung für Deutsch und Englisch im Chat & Support  
+- Geringes PvP — Fokus auf Community & Kooperation
 
-Roadmap
+### So trittst du bei
+1. Minecraft Java Edition öffnen  
+2. Multiplayer → Server hinzufügen  
+3. Adresse: `cookie-smp.minecraft.party` eingeben  
+4. Verbinden und loslegen!
 
-Status	Punkt
-Erledigt	Serverstart
-Erledigt	Wirtschaftssystem
-Erledigt	Land Claims
-Erledigt	Custom Dungeons
-Erledigt	Deutsch und Englisch
-Geplant	Weitere Herausforderungen
-Geplant	Erweiterte Erkundungsinhalte
-Geplant	Community Events
+### Serverinformationen (Kurz)
+| Eigenschaft | Information |
+|---|---|
+| Server | The Cookie SMP |
+| Adresse | cookie-smp.minecraft.party |
+| Edition | Minecraft Java Edition |
+| Version | 1.21.11 |
+| PvP | Sehr gering |
+| Sprachen | Deutsch, Englisch |
+| Fokus | Survival, Community, Erkundung |
 
-⸻
+### Roadmap
+- [x] Serverstart  
+- [x] Wirtschaftssystem  
+- [x] Land Claims  
+- [x] Custom Dungeons  
+- [x] Deutsch & Englisch Support  
+- [ ] Weitere Herausforderungen  
+- [ ] Erweiterte Erkundungsinhalte  
+- [ ] Community Events
 
-🇬🇧 English
+---
 
-About
+## 🇬🇧 English
 
-The Cookie SMP is a Minecraft Java Edition survival server built around building, exploring and trading rather than combat. The community keeps PvP minimal and is fully bilingual, supporting German and English players equally.
+### About
+The Cookie SMP is a relaxed survival server focused on community, creative building, exploration, and player-driven trade. PvP is kept minimal — cooperation and trading are encouraged.
 
-Features
+### Features
+- Original, hand-built dungeons with evolving challenges  
+- Player-run economy with shops and free trading  
+- Land claims to protect builds from griefing  
+- Full support in German and English (chat & support)  
+- Low PvP — community-first gameplay
 
-Feature	Description
-Custom Dungeons	Original, hand built dungeons with challenges that keep growing over time
-Economy	A market run entirely by players, including shops and free trading
-Land Claims	Reliable protection for builds against griefing
-Bilingual Community	Full support in German and English, in chat and in support
-Low PvP	Community and cooperation take priority over combat
+### How to join
+1. Open Minecraft Java Edition  
+2. Go to Multiplayer → Add Server  
+3. Enter: `cookie-smp.minecraft.party`  
+4. Connect and have fun!
 
-How to join
+### Server Information (Quick)
+| Property | Information |
+|---|---|
+| Server | The Cookie SMP |
+| Address | cookie-smp.minecraft.party |
+| Edition | Minecraft Java Edition |
+| Version | 1.21.11 |
+| PvP | Minimal |
+| Languages | German, English |
+| Focus | Survival, Community, Exploration |
 
-1. Open Minecraft Java Edition
-2. Go to Multiplayer and add a server
-3. Enter the address: cookie-smp.minecraft.party
-4. Connect and start playing
+### Roadmap
+- [x] Server launch  
+- [x] Economy system  
+- [x] Land claims  
+- [x] Custom dungeons  
+- [x] German & English support  
+- [ ] Additional challenges  
+- [ ] Expanded exploration content  
+- [ ] Community events
 
-Server Information
+---
 
-Property	Information
-Server	The Cookie SMP
-Address	cookie-smp.minecraft.party
-Edition	Minecraft Java Edition
-Version	1.21.11
-PvP	Minimal
-Languages	German, English
-Focus	Survival, Community, Exploration
+## Regeln / Rules (Kurz)
+- Kein griefing / no griefing  
+- Respektvoller Umgang miteinander  
+- Keine Ausnutzung von Bugs (bitte melden)  
+- PvP nur dort, wo explizit erlaubt
 
-Roadmap
+(Falls ihr detaillierte Regeln, ein Discord oder Support-Kontakt habt, kann ich diese hier ergänzen.)
 
-Status	Item
-Done	Server launch
-Done	Economy system
-Done	Land claims
-Done	Custom dungeons
-Done	German and English support
-Planned	Additional challenges
-Planned	Expanded exploration content
-Planned	Community events
+---
 
-⸻
+## Mitmachen & Mitgestalten / Contribute
+- Baue, handle und organisiere Events mit anderen Spielern  
+- Vorschläge und Bugreports am besten im Discord/Issue-Tracker (falls vorhanden)
+
+---
+
+## Kontakt / Kontaktmöglichkeiten
+- Server: `cookie-smp.minecraft.party`  
+- Discord / Support: (hier optional Link einfügen)
+
+---
 
 <div align="center">
+  
+Danke fürs Vorbeischauen — wenn dir das Projekt gefällt, hinterlasse gerne einen Stern ⭐
 
-The Cookie SMP
-cookie-smp.minecraft.party
+The Cookie SMP — cookie-smp.minecraft.party
 
 </div>
