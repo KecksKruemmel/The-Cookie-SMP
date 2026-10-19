@@ -19,7 +19,11 @@ Ein freundlicher Minecraft Java Edition Survival Server für Builder, Entdecker 
 
 ## Server Adresse / Server Address
 
-**cookie-smp.minecraft.party**
+IP zum Kopieren / Copyable address
+
+```text
+cookie-smp.minecraft.party
+```
 
 ---
 
@@ -40,7 +44,7 @@ The Cookie SMP ist ein entspannter Survival Server, der Wert auf Gemeinschaft, k
 
 ### Features
 - Handgebaute Dungeons mit einzigartigen Herausforderungen  
-- Spieler getriebene Wirtschaft mit Shops & Handel  
+- Spieler getriebene Wirtschaft mit Shops und Handel  
 - Land Claims: Schutz für Bauwerke vor Griefing  
 - Volle Unterstützung für Deutsch und Englisch im Chat und Support  
 - Geringes PvP, Fokus auf Community und Kooperation
@@ -48,7 +52,12 @@ The Cookie SMP ist ein entspannter Survival Server, der Wert auf Gemeinschaft, k
 ### So trittst du bei
 1. Minecraft Java Edition öffnen  
 2. Multiplayer → Server hinzufügen  
-3. Adresse: `cookie-smp.minecraft.party` eingeben  
+3. Adresse: 
+
+```text
+cookie-smp.minecraft.party
+```
+
 4. Verbinden und loslegen!
 
 ### Serverinformationen (Kurz)
@@ -89,7 +98,12 @@ The Cookie SMP is a relaxed survival server focused on community, creative build
 ### How to join
 1. Open Minecraft Java Edition  
 2. Go to Multiplayer → Add Server  
-3. Enter: `cookie-smp.minecraft.party`  
+3. Enter:
+
+```text
+cookie-smp.minecraft.party
+```
+
 4. Connect and have fun!
 
 ### Server Information (Quick)
@@ -132,7 +146,12 @@ The Cookie SMP is a relaxed survival server focused on community, creative build
 ---
 
 ## Kontakt / Kontaktmöglichkeiten
-- Server: `cookie-smp.minecraft.party`  
+- Server: 
+
+```text
+cookie-smp.minecraft.party
+```
+
 - Discord / Support: (hier optional Link einfügen)
 
 ---
