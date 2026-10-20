@@ -57,13 +57,14 @@ The Cookie SMP ist ein freundlicher Minecraft Java Survival Server mit Fokus auf
 
 ## 👥 Team Übersicht
 
-| Rolle | Name |
-| --- | --- |
-| Owner | Kecks_Krümmel |
-| Manager | Jecrafter |
-| Admin | Drr_Benjii |
-| Developer | Tobias86825 |
-| Moderatoren | Staffcrafter, DDR_Maik |
+| Rolle | Name | Status |
+| --- | --- | --- |
+| Owner | Kecks_Krümmel | 🔴 Offline |
+| Manager | Jecrafter | 🔴 Offline |
+| Admin | Drr_Benjii | 🔴 Offline |
+| Developer | Tobias86825 | 🔴 Offline |
+| Moderator | Staffcrafter | 🔴 Offline |
+| Moderator | DDR_Maik | 🔴 Offline |
 
 ---
 
