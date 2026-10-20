@@ -1,104 +1,102 @@
-# 🍪 The Cookie SMP – Ein friedlicher Minecraft Survival Server
-
-![Java Edition 1.21.11](https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=flat-square&logo=minecraft)
-![Discord Community](https://img.shields.io/badge/Discord-Join-7289DA?style=flat-square&logo=discord)
-
 <div align="center">
-  <img src="https://api.mcstatus.io/v2/widget/java/cookie-smp.minecraft.party?dark=true&rounded=true" alt="Minecraft Server Status">
+
+# 🍪 The Cookie SMP
+
+<img src="https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=for-the-badge&logo=minecraft" alt="Minecraft Java 1.21.11">
+<img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord" alt="Discord Community">
+<img src="https://img.shields.io/badge/Ban%20Appeals-Join-7289DA?style=for-the-badge&logo=discord" alt="Ban Appeals">
+<img src="https://img.shields.io/badge/Feedback-Form-9C27B0?style=for-the-badge" alt="Feedback Form">
+
+<img src="https://api.mcstatus.io/v2/widget/java/cookie-smp.minecraft.party?dark=true&rounded=true" alt="The Cookie SMP Live Server Status">
+
 </div>
 
-Kurzbeschreibung  
-The Cookie SMP ist ein communityfokussierter Minecraft Java Survival Server (Version 1.21.11). Fokus liegt auf bauen, handeln und gemeinsamer Erkundung mit einer starken, freundlichen Community und einer spielerbasierten Wirtschaft.
+The Cookie SMP ist ein friedlicher Minecraft Java Survival Server mit Fokus auf gemeinsames Bauen, Erkundung, Handel und eine entspannte Community. Die Server-Atmosphäre ist bewusst auf Kooperation und Spielerlebnis statt auf reinen PvP-Kampf ausgelegt.
 
-> [!NOTE]  
-> Die README ist auf Deutsch verfasst. Alle wichtigen Verbindungsdaten stehen weiter unten und sind kopierbar.
+> [!NOTE]
+> Nur Java Edition 1.21.11. Kein Bedrock Crossplay.
 
 ---
 
-## Wichtige Links & Serverdaten
-- Server IP (kopierbar)
+## 🚀 Schnellstart & Serverdaten
 
 ```text
 cookie-smp.minecraft.party
 ```
 
-- Version: Java Edition 1.21.11 (kein Bedrock Crossplay)  
-- Discord Community: https://discord.gg/kaTjfWDTFJ  
-- Ban Appeals: https://discord.gg/2cPwFba94G  
+- Version: Java Edition 1.21.11
+- Servertyp: Survival Server mit freundlicher Community
+- Discord Community: https://discord.gg/kaTjfWDTFJ
+- Ban Appeals: https://discord.gg/2cPwFba94G
 - Feedback Formular: https://forms.gle/JzEuBev94p4tRVAs5
 
-> [!IMPORTANT]  
-> Stelle sicher, dass du Minecraft Java Edition in der Version 1.21.11 verwendest, bevor du dich verbindest.
+> [!IMPORTANT]
+> Bitte nutze nur Minecraft Java Edition 1.21.11, um Verbindungskompatibilitätsprobleme zu vermeiden.
 
 ---
 
-## Key Features
-- Spielerbasierte Wirtschaft (AuctionHouse & QuickShop)  
-- RPG & Levelsystem (AuraSkills & Custom Dungeons)  
-- Proximity Voicechat (voicechat Plugin)  
-- Custom Items & Ingame Features  
-- Land Claims zum Schutz deiner Bauten
+## ✨ Key Features
+
+- Spielerbasierte Wirtschaft mit AuctionHouse & QuickShop
+- RPG & Levelsystem via AuraSkills und Custom Dungeons
+- Proximity Voicechat für direkte Kommunikation im Spiel
+- Eigene Custom Items und zusätzliche Ingame-Features
+- Land Claims zum Schutz von eigenen Builds
 
 ---
 
-## Offizielles Server Team
+<details>
+<summary><b>📜 Regelwerk & Sanktionen ausklappen</b></summary>
 
-| Rolle       | Account                     |
-|------------:|-----------------------------|
-| Owner       | Kecks_Krümmel               |
-| Manager     | Jecrafter                   |
-| Admin       | Drr_Benjii                  |
-| Developer   | Tobias86825                 |
-| Moderatoren | Staffcrafter, DDR_Maik      |
+### Eskalationsstufen
+1. Verwarnung
+2. Kick
+3. Temp-Ban
+4. Perm-Ban
 
----
+### Kurzregeln
+- Kein Griefing oder Diebstahl fremder Builds
+- Keine Ausnutzung von Bugs oder Exploits
+- Respektvoller Umgang untereinander
+- Keine Beleidigungen, Hass oder Diskriminierung
+- PvP nur in ausdrücklich erlaubten Bereichen
 
-## Regeln & Sanktionen
-Bitte respektvoll miteinander umgehen. Die Regeln dienen dem Spielspaß aller.
-
-> [!IMPORTANT]  
-> Regelverstöße werden konsequent, aber fair geahndet.
-
-Eskalationsstufen bei Regelverstößen:
-1. Verwarnung  
-2. Kick  
-3. Temporärer Bann (Temp-Ban)  
-4. Permanenter Bann (Perm-Ban)
-
-Kurzregeln (Auszug):
-- Kein Griefing oder Diebstahl fremder Builds  
-- Kein Ausnutzen von Bugs oder Exploits (bitte melden)  
-- Respektvoller Umgang, keine Beleidigungen oder Diskriminierung  
-- PvP nur in markierten Gebieten oder wenn ausdrücklich erlaubt
+</details>
 
 ---
 
-## Wie du beitrittst
-1. Starte Minecraft Java Edition (Version 1.21.11)  
-2. Multiplayer → Server hinzufügen  
-3. Server IP kopieren und einfügen:
+## 👥 Team Übersicht
 
-```text
-cookie-smp.minecraft.party
-```
-
-4. Verbinden und willkommen heißen lassen!
+| Rolle | Name |
+| --- | --- |
+| Owner | Kecks_Krümmel |
+| Manager | Jecrafter |
+| Admin | Drr_Benjii |
+| Developer | Tobias86825 |
+| Moderatoren | Staffcrafter, DDR_Maik |
 
 ---
 
-## Feedback & Support
-- Discord (Community & Support): https://discord.gg/kaTjfWDTFJ  
-- Ban Appeals: https://discord.gg/2cPwFba94G  
+## 🧩 Befehle Übersicht
+
+| Befehl | Funktion |
+| --- | --- |
+| /claim | Grundstück/Claim verwalten |
+| /ah | AuctionHouse öffnen |
+| /shop | Shop-System nutzen |
+| /spawn | Zurück zum Spawn teleportieren |
+
+---
+
+## 🤝 Community & Support
+
+- Discord Community: https://discord.gg/kaTjfWDTFJ
+- Ban Appeals: https://discord.gg/2cPwFba94G
 - Feedback Formular: https://forms.gle/JzEuBev94p4tRVAs5
 
-> [!NOTE]  
-> Für schnelle Hilfe nutze unser Discord. Für strukturiertes Feedback nutze das Formular.
+> [!NOTE]
+> Für Support, Feedback oder Vorschläge ist der Discord-Kanal die schnellste Anlaufstelle.
 
 ---
 
-## Mitmachen & Mitgestalten
-Deine Ideen sind willkommen: Bauprojekte, Shops, Events oder Bugreports. Poste Vorschläge im Discord oder nutze das Feedback Formular.
-
----
-
-Vielen Dank für dein Interesse an The Cookie SMP! Wenn dir der Server gefällt, hinterlasse gerne einen Stern ⭐ auf diesem Repository.
+Wenn dir The Cookie SMP gefällt, hinterlasse gerne einen Stern auf diesem Repository ⭐
