@@ -7,7 +7,7 @@ import requests
 
 API_URL = "https://api.mcstatus.io/v2/status/java/cookie-smp.minecraft.party"
 TEAM_ACCOUNTS = {
-    "Kekskruemmel": "Owner",
+    "Kecks_Kruemmel": "Owner",
     "Jecrafter": "Manager",
     "Drr_Benjii": "Admin",
     "Tobias86825": "Developer",
