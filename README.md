@@ -66,9 +66,6 @@ The Cookie SMP ist ein freundlicher Minecraft Java Survival Server mit Fokus auf
 | Moderator | Staffcrafter | ⚪ Unbekannt |
 | Moderator | DDR_Maik | ⚪ Unbekannt |
 
-> [!NOTE]
-> Der Teamstatus kann nur zuverlässig erkannt werden, wenn der Server die Spielernamen in seiner Statusabfrage veröffentlicht. Bei Paper/Spigot muss dafür `hide-online-players=false` in der `server.properties` gesetzt und der Server neu gestartet werden. Andernfalls wird der Status als „Unbekannt“ angezeigt.
-
 ---
 
 ## 🧩 Befehle Übersicht
