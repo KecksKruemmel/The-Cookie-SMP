@@ -26,7 +26,13 @@ def fetch_online_players() -> set[str]:
         response.raise_for_status()
         data = response.json()
         players = data.get("players", {}).get("list") or []
-        return {normalize_name(str(player)) for player in players}
+        names = []
+        for player in players:
+            if isinstance(player, dict):
+                names.append(player.get("name", ""))
+            else:
+                names.append(str(player))
+        return {normalize_name(name) for name in names if name}
     except Exception as exc:
         print(f"[WARN] Konnte Serverstatus nicht abrufen: {exc}", file=sys.stderr)
         return set()
