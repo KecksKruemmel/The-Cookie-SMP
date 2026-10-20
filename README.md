@@ -3,6 +3,10 @@
 ![Java Edition 1.21.11](https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=flat-square&logo=minecraft)
 ![Discord Community](https://img.shields.io/badge/Discord-Join-7289DA?style=flat-square&logo=discord)
 
+<div align="center">
+  <img src="https://api.mcstatus.io/v2/widget/java/cookie-smp.minecraft.party?dark=true&rounded=true" alt="Minecraft Server Status">
+</div>
+
 Kurzbeschreibung  
 The Cookie SMP ist ein communityfokussierter Minecraft Java Survival Server (Version 1.21.11). Fokus liegt auf bauen, handeln und gemeinsamer Erkundung mit einer starken, freundlichen Community und einer spielerbasierten Wirtschaft.
 
