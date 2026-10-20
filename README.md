@@ -2,10 +2,10 @@
 
 # 🍪 The Cookie SMP
 
-<img src="https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=for-the-badge&logo=minecraft" alt="Minecraft Java 1.21.11">
-<img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord" alt="Discord Community">
-<img src="https://img.shields.io/badge/Ban%20Appeals-Join-7289DA?style=for-the-badge&logo=discord" alt="Ban Appeals">
-<img src="https://img.shields.io/badge/Feedback-Form-9C27B0?style=for-the-badge" alt="Feedback Form">
+[![Minecraft Java 1.21.11](https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=for-the-badge&logo=minecraft)](#wie-du-beitrittst)
+[![Discord Community](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/kaTjfWDTFJ)
+[![Ban Appeals](https://img.shields.io/badge/Ban%20Appeals-Join-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/2cPwFba94G)
+[![Feedback Form](https://img.shields.io/badge/Feedback-Form-9C27B0?style=for-the-badge)](https://forms.gle/JzEuBev94p4tRVAs5)
 
 <img src="https://api.mcstatus.io/v2/widget/java/cookie-smp.minecraft.party?dark=true&rounded=true" alt="The Cookie SMP Live Server Status">
 
@@ -96,6 +96,20 @@ cookie-smp.minecraft.party
 
 > [!NOTE]
 > Für Support, Feedback oder Vorschläge ist der Discord-Kanal die schnellste Anlaufstelle.
+
+---
+
+## Wie du beitrittst
+
+1. Starte Minecraft Java Edition 1.21.11.
+2. Öffne Multiplayer und füge einen Server hinzu.
+3. Kopiere die IP:
+
+```text
+cookie-smp.minecraft.party
+```
+
+4. Verbinde dich und starte direkt.
 
 ---
 
