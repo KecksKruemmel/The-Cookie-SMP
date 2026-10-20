@@ -67,7 +67,7 @@ Der Online-Status wird automatisch alle paar Minuten per GitHub Action aktualisi
 | Moderator | Staffcrafter | 🔴 Offline |
 | Moderator | DDR_Maik | 🔴 Offline |
 
-_Zuletzt aktualisiert: 2026-10-20 19:47 UTC_
+_Zuletzt aktualisiert: 2026-10-20 19:49 UTC_
 <!-- TEAM-STATUS:END -->
 
 ### Roadmap
