@@ -11,7 +11,7 @@
 
 </div>
 
-The Cookie SMP ist ein friedlicher Minecraft Java Survival Server mit Fokus auf gemeinsames Bauen, Erkundung, Handel und eine entspannte Community. Die Server-Atmosphäre ist bewusst auf Kooperation und Spielerlebnis statt auf reinen PvP-Kampf ausgelegt.
+The Cookie SMP ist ein freundlicher Minecraft Java Survival Server mit Fokus auf gemeinsames Bauen, Erkundung, Handel und eine entspannte Community. Die Server-Atmosphäre ist bewusst auf Kooperation und Spielerlebnis statt auf reinen PvP-Kampf ausgelegt.
 
 > [!NOTE]
 > Nur Java Edition 1.21.11. Kein Bedrock Crossplay.
@@ -20,18 +20,8 @@ The Cookie SMP ist ein friedlicher Minecraft Java Survival Server mit Fokus auf 
 
 ## 🚀 Schnellstart & Serverdaten
 
-```text
-cookie-smp.minecraft.party
-```
-
 - Version: Java Edition 1.21.11
 - Servertyp: Survival Server mit freundlicher Community
-- Discord Community: https://discord.gg/kaTjfWDTFJ
-- Ban Appeals: https://discord.gg/2cPwFba94G
-- Feedback Formular: https://forms.gle/JzEuBev94p4tRVAs5
-
-> [!IMPORTANT]
-> Bitte nutze nur Minecraft Java Edition 1.21.11, um Verbindungskompatibilitätsprobleme zu vermeiden.
 
 ---
 
