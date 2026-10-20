@@ -61,13 +61,13 @@ Der Online-Status wird automatisch alle paar Minuten per GitHub Action aktualisi
 | Rolle | Name | Status |
 | ----- | ---- | ------ |
 | Owner | Kecks_Kruemmel | 🔴 Offline |
-| Manager | Jecrafter | 🔴 Offline |
-| Admin | Drr_Benjii | 🔴 Offline |
-| Developer | Tobias86825 | 🔴 Offline |
+| Manager | Jecrafter | 🟢 Online |
+| Admin | Drr_Benjii | 🟢 Online |
+| Developer | Tobias86825 | 🟢 Online |
 | Moderator | Staffcrafter | 🔴 Offline |
 | Moderator | DDR_Maik | 🔴 Offline |
 
-_Zuletzt aktualisiert: 2026-10-20 18:49 UTC_
+_Zuletzt aktualisiert: 2026-10-20 18:50 UTC_
 <!-- TEAM-STATUS:END -->
 
 ### Roadmap
