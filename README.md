@@ -59,12 +59,15 @@ The Cookie SMP ist ein freundlicher Minecraft Java Survival Server mit Fokus auf
 
 | Rolle | Name | Status |
 | --- | --- | --- |
-| Owner | Kecks_Krümmel | 🔴 Offline |
-| Manager | Jecrafter | 🔴 Offline |
-| Admin | Drr_Benjii | 🔴 Offline |
-| Developer | Tobias86825 | 🔴 Offline |
-| Moderator | Staffcrafter | 🔴 Offline |
-| Moderator | DDR_Maik | 🔴 Offline |
+| Owner | Kekskruemmel | ⚪ Unbekannt |
+| Manager | Jecrafter | ⚪ Unbekannt |
+| Admin | Drr_Benjii | ⚪ Unbekannt |
+| Developer | Tobias86825 | ⚪ Unbekannt |
+| Moderator | Staffcrafter | ⚪ Unbekannt |
+| Moderator | DDR_Maik | ⚪ Unbekannt |
+
+> [!NOTE]
+> Der Teamstatus kann nur zuverlässig erkannt werden, wenn der Server die Spielernamen in seiner Statusabfrage veröffentlicht. Bei Paper/Spigot muss dafür `hide-online-players=false` in der `server.properties` gesetzt und der Server neu gestartet werden. Andernfalls wird der Status als „Unbekannt“ angezeigt.
 
 ---
 
