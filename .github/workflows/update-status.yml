@@ -1,0 +1,36 @@
+name: Update Team Online Status
+
+on:
+  schedule:
+    # Alle 10 Minuten
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhaengigkeiten installieren
+        run: pip install mcstatus
+
+      - name: Status abfragen und README aktualisieren
+        run: python scripts/update_status.py
+
+      - name: Aenderungen committen
+        run: |
+          git config user.name "cookie-smp-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md
+          git diff --quiet --cached || git commit -m "Update Team-Online-Status"
+          git push

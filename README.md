@@ -1,107 +1,135 @@
-<div align="center">
-
 # 🍪 The Cookie SMP
 
-[![Minecraft Java 1.21.11](https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=for-the-badge&logo=minecraft)](#wie-du-beitrittst)
-[![Discord Community](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/kaTjfWDTFJ)
-[![Ban Appeals](https://img.shields.io/badge/Ban%20Appeals-Join-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/2cPwFba94G)
-[![Feedback Form](https://img.shields.io/badge/Feedback-Form-9C27B0?style=for-the-badge)](https://forms.gle/JzEuBev94p4tRVAs5)
+*A peaceful Minecraft Java Edition survival server for builders, explorers and traders.*
 
-<img src="https://api.mcstatus.io/v2/widget/java/cookie-smp.minecraft.party?dark=true&rounded=true" alt="The Cookie SMP Live Server Status">
+[![Minecraft Java 1.21.11](https://img.shields.io/badge/Minecraft-Java%201.21.11-a9702c?style=flat-square)](https://www.minecraft.net/) [![Minimal PvP](https://img.shields.io/badge/PvP-Minimal-a9702c?style=flat-square)](#) [![German and English community](https://img.shields.io/badge/Community-DE%20%7C%20EN-a9702c?style=flat-square)](#) [![Server Status](https://api.mcsrvstat.us/icon/cookie-smp.minecraft.party)](https://cookie-smp.minecraft.party)
 
-</div>
+**Choose your Language**
 
-The Cookie SMP ist ein freundlicher Minecraft Java Survival Server mit Fokus auf gemeinsames Bauen, Erkundung, Handel und eine entspannte Community. Die Server-Atmosphäre ist bewusst auf Kooperation und Spielerlebnis statt auf reinen PvP-Kampf ausgelegt.
+[![Deutsch](https://img.shields.io/badge/Sprache-Deutsch-1a1a1a?style=for-the-badge)](#deutsch) [![English](https://img.shields.io/badge/Language-English-00247d?style=for-the-badge)](#english)
+
+> [!TIP]
+> **Server Adresse / Server Address**
+> ```
+> cookie-smp.minecraft.party
+> ```
+> ⭐ Gefällt dir das Projekt? Lass gerne einen Stern da. / Like the project? Feel free to leave a star.
+
+---
+
+## 🇩🇪 Deutsch
+
+### Über uns
+
+The Cookie SMP ist ein Minecraft Java Edition Survival Server, der auf Bauen, Erkunden und Handeln statt auf Kampf ausgerichtet ist. Die Community setzt bewusst auf sehr geringes PvP und ist vollständig zweisprachig. Deutsch und Englisch werden gleichermaßen unterstützt.
+
+### Features
+
+| Feature                 | Beschreibung                                                                     |
+| ------------------------ | ---------------------------------------------------------------------------------- |
+| Custom Dungeons          | Handgebaute Dungeons mit eigenen Herausforderungen, die laufend erweitert werden   |
+| Wirtschaftssystem        | Ein spielergetriebener Markt mit Shops und freiem Handel                          |
+| Land Claims              | Zuverlässiger Schutz für Bauwerke vor Griefing                                    |
+| Zweisprachige Community  | Volle Unterstützung für Deutsch und Englisch, in Chat und Support                 |
+| Geringes PvP             | Community und Zusammenarbeit stehen im Vordergrund                                |
+| Eigene Custom Items      | Zusätzliche Ingame-Features und Items, die es sonst nirgendwo gibt                 |
 
 > [!NOTE]
-> Nur Java Edition 1.21.11. Kein Bedrock Crossplay.
+> **So trittst du bei**
+> 1. Minecraft Java Edition öffnen
+> 2. Mehrspieler auswählen und Server hinzufügen
+> 3. Adresse eintragen: `cookie-smp.minecraft.party`
+> 4. Verbinden und loslegen
 
----
+### Serverinformationen
 
-## 🚀 Schnellstart & Serverdaten
+|          |                                 |
+| -------- | ------------------------------- |
+| Server   | The Cookie SMP                  |
+| Adresse  | `cookie-smp.minecraft.party`    |
+| Edition  | Minecraft Java Edition           |
+| Version  | 1.21.11                          |
+| PvP      | Sehr gering                      |
+| Sprachen | Deutsch, Englisch                 |
+| Fokus    | Survival, Community, Erkundung    |
 
-- Version: Java Edition 1.21.11
-- Servertyp: Survival Server mit freundlicher Community
+### 👥 Team Übersicht
 
----
+Der Online-Status wird automatisch alle paar Minuten per GitHub Action aktualisiert.
 
-## ✨ Key Features
-
-- Spielerbasierte Wirtschaft mit AuctionHouse & QuickShop
-- RPG & Levelsystem via AuraSkills und Custom Dungeons
-- Proximity Voicechat für direkte Kommunikation im Spiel
-- Eigene Custom Items und zusätzliche Ingame-Features
-- Land Claims zum Schutz von eigenen Builds
-
----
-
-<details>
-<summary><b>📜 Regelwerk & Sanktionen ausklappen</b></summary>
-
-### Eskalationsstufen
-1. Verwarnung
-2. Kick
-3. Temp-Ban
-4. Perm-Ban
-
-### Kurzregeln
-- Kein Griefing oder Diebstahl fremder Builds
-- Keine Ausnutzung von Bugs oder Exploits
-- Respektvoller Umgang untereinander
-- Keine Beleidigungen, Hass oder Diskriminierung
-- PvP nur in ausdrücklich erlaubten Bereichen
-
-</details>
-
----
-
-## 👥 Team Übersicht
-
+<!-- TEAM-STATUS:START -->
 | Rolle | Name | Status |
-| --- | --- | --- |
-| Owner | Kecks_Kruemmel | 🟢 Online |
+| ----- | ---- | ------ |
+| Owner | Kecks_Kruemmel | 🔴 Offline |
 | Manager | Jecrafter | 🔴 Offline |
-| Admin | Drr_Benjii | 🟢 Online |
+| Admin | Drr_Benjii | 🔴 Offline |
 | Developer | Tobias86825 | 🔴 Offline |
 | Moderator | Staffcrafter | 🔴 Offline |
 | Moderator | DDR_Maik | 🔴 Offline |
 
+_Zuletzt aktualisiert: wird automatisch gesetzt_
+<!-- TEAM-STATUS:END -->
+
+### Roadmap
+
+| Status   | Punkt                         |
+| -------- | ------------------------------ |
+| Erledigt | Serverstart                    |
+| Erledigt | Wirtschaftssystem               |
+| Erledigt | Land Claims                     |
+| Erledigt | Custom Dungeons                 |
+| Erledigt | Deutsch und Englisch             |
+| Geplant  | Weitere Herausforderungen        |
+| Geplant  | Erweiterte Erkundungsinhalte      |
+| Geplant  | Community Events                  |
+
 ---
 
-## 🧩 Befehle Übersicht
+## 🇬🇧 English
 
-| Befehl | Funktion |
-| --- | --- |
-| /claim | Grundstück/Claim verwalten |
-| /ah | AuctionHouse öffnen |
-| /shop | Shop-System nutzen |
-| /spawn | Zurück zum Spawn teleportieren |
+### About
 
----
+The Cookie SMP is a Minecraft Java Edition survival server built around building, exploring and trading rather than combat. The community keeps PvP minimal and is fully bilingual, supporting German and English players equally.
 
-## 🤝 Community & Support
+### Features
 
-- Discord Community: https://discord.gg/kaTjfWDTFJ
-- Ban Appeals: https://discord.gg/2cPwFba94G
-- Feedback Formular: https://forms.gle/JzEuBev94p4tRVAs5
+| Feature             | Description                                                                |
+| -------------------- | ---------------------------------------------------------------------------- |
+| Custom Dungeons      | Original, hand built dungeons with challenges that keep growing over time    |
+| Economy               | A market run entirely by players, including shops and free trading          |
+| Land Claims           | Reliable protection for builds against griefing                             |
+| Bilingual Community   | Full support in German and English, in chat and in support                  |
+| Low PvP               | Community and cooperation take priority over combat                         |
+| Custom Items          | Extra ingame features and items you will not find anywhere else              |
 
 > [!NOTE]
-> Für Support, Feedback oder Vorschläge ist der Discord-Kanal die schnellste Anlaufstelle.
+> **How to join**
+> 1. Open Minecraft Java Edition
+> 2. Go to Multiplayer and add a server
+> 3. Enter the address: `cookie-smp.minecraft.party`
+> 4. Connect and start playing
 
----
+### Server Information
 
-## Wie du beitrittst
+|           |                                   |
+| --------- | ---------------------------------- |
+| Server    | The Cookie SMP                     |
+| Address   | `cookie-smp.minecraft.party`       |
+| Edition   | Minecraft Java Edition               |
+| Version   | 1.21.11                              |
+| PvP       | Minimal                              |
+| Languages | German, English                      |
+| Focus     | Survival, Community, Exploration      |
 
-1. Starte Minecraft Java Edition 1.21.11.
-2. Öffne Multiplayer und füge einen Server hinzu.
-3. Kopiere die IP:
+### Roadmap
 
-```text
-cookie-smp.minecraft.party
-```
-
-4. Verbinde dich und starte direkt.
-
----
-
-Wenn dir The Cookie SMP gefällt, hinterlasse gerne einen Stern auf diesem Repository ⭐
+| Status  | Item                          |
+| ------- | ------------------------------ |
+| Done    | Server launch                   |
+| Done    | Economy system                   |
+| Done    | Land claims                      |
+| Done    | Custom dungeons                   |
+| Done    | German and English support         |
+| Planned | Additional challenges               |
+| Planned | Expanded exploration content         |
+| Planned | Community events                      |
